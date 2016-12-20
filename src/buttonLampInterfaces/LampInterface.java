@@ -1,3 +1,4 @@
+package buttonLampInterfaces;
 
 
 public interface LampInterface extends java.rmi.Remote {

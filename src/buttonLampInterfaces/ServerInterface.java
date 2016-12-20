@@ -1,3 +1,4 @@
+package buttonLampInterfaces;
 
 
 public interface ServerInterface extends java.rmi.Remote {
